@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Colors -->
+    <color name="background_color">#F5F5F5</color>
+    
+    <!-- Text Colors -->
+    <color name="primary_text">#212121</color>
+    <color name="status_text">#1976D2</color>
+    <color name="button_text">#424242</color>
+    
+    <!-- Button Colors -->
+    <color name="button_background_color">#FFFFFF</color>
+    <color name="button_pressed_color">#E0E0E0</color>
+    <color name="reset_button_color">#1976D2</color>
+    <color name="reset_button_pressed_color">#1565C0</color>
+    
+    <!-- Player Colors -->
+    <color name="player_x_color">#2196F3</color>
+    <color name="player_o_color">#F44336</color>
+    
+    <!-- Launcher Icon Background -->
+    <color name="ic_launcher_background">#1976D2</color>
+</resources>
+

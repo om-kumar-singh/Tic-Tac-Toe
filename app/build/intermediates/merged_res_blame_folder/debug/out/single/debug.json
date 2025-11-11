@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\OM KUMAR SINGH\\.gradle\\daemon\\8.5\\com.example.tictactoe.app-merged_res-31:\\drawable_reset_button_background.xml.flat",
+        "source": "C:\\Users\\OM KUMAR SINGH\\.gradle\\daemon\\8.5\\com.example.tictactoe.app-main-33:\\drawable\\reset_button_background.xml"
+    },
+    {
+        "merged": "com.example.tictactoe.app-merged_res-31:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.tictactoe.app-main-33:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tictactoe.app-merged_res-31:/drawable_ic_launcher_round.xml.flat",
+        "source": "com.example.tictactoe.app-main-33:/drawable/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.tictactoe.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.tictactoe.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tictactoe.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.tictactoe.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\OM KUMAR SINGH\\.gradle\\daemon\\8.5\\com.example.tictactoe.app-merged_res-31:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\OM KUMAR SINGH\\.gradle\\daemon\\8.5\\com.example.tictactoe.app-main-33:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\OM KUMAR SINGH\\.gradle\\daemon\\8.5\\com.example.tictactoe.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\OM KUMAR SINGH\\.gradle\\daemon\\8.5\\com.example.tictactoe.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.tictactoe.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.tictactoe.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
