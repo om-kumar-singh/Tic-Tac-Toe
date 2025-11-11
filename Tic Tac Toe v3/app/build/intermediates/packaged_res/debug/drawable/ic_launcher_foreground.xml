@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.8"
+        android:scaleY="0.8"
+        android:translateX="10.8"
+        android:translateY="10.8">
+        <!-- Tic Tac Toe Grid Lines -->
+        <path
+            android:fillColor="@android:color/transparent"
+            android:strokeWidth="4"
+            android:strokeColor="@color/on_primary"
+            android:pathData="M36,18 L36,90 M72,18 L72,90 M18,36 L90,36 M18,72 L90,72"/>
+        <!-- X in top-left -->
+        <path
+            android:fillColor="@android:color/transparent"
+            android:strokeWidth="4"
+            android:strokeColor="@color/on_primary"
+            android:pathData="M24,24 L36,36 M36,24 L24,36"/>
+        <!-- O in center -->
+        <path
+            android:fillColor="@android:color/transparent"
+            android:strokeWidth="4"
+            android:strokeColor="@color/on_primary"
+            android:pathData="M54,54 m-9,0 a9,9 0 1,1 18,0 a9,9 0 1,1 -18,0"/>
+        <!-- X in bottom-right -->
+        <path
+            android:fillColor="@android:color/transparent"
+            android:strokeWidth="4"
+            android:strokeColor="@color/on_primary"
+            android:pathData="M60,60 L72,72 M72,60 L60,72"/>
+    </group>
+</vector>
+

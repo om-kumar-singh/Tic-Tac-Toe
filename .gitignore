@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Version-specific build directories
+v1/build/
+v1/app/build/
+v2/build/
+v2/app/build/
+
+# Gradle wrapper (optional - you may want to keep these)
+# v1/gradle/wrapper/
+# v2/gradle/wrapper/
+

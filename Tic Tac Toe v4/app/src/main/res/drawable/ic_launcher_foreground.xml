@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- safe area inset -->
+    <group android:translateX="28.8" android:translateY="28.8" android:scaleX="0.7" android:scaleY="0.7">
+        <!-- rounded board -->
+        <path
+            android:pathData="M4,0 h64 a4,4 0 0 1 4,4 v64 a4,4 0 0 1 -4,4 h-64 a4,4 0 0 1 -4,-4 v-64 a4,4 0 0 1 4,-4 z"
+            android:strokeWidth="0"
+            android:fillColor="#FFFFFFFF" />
+        <!-- grid lines -->
+        <path
+            android:pathData="M24,0 L24,72"
+            android:strokeWidth="6"
+            android:strokeColor="@color/primaryDarkColor"
+            android:fillColor="#00000000" />
+        <path
+            android:pathData="M48,0 L48,72"
+            android:strokeWidth="6"
+            android:strokeColor="@color/primaryDarkColor"
+            android:fillColor="#00000000" />
+        <path
+            android:pathData="M0,24 L72,24"
+            android:strokeWidth="6"
+            android:strokeColor="@color/primaryDarkColor"
+            android:fillColor="#00000000" />
+        <path
+            android:pathData="M0,48 L72,48"
+            android:strokeWidth="6"
+            android:strokeColor="@color/primaryDarkColor"
+            android:fillColor="#00000000" />
+
+        <!-- X mark (top-left cell) -->
+        <path
+            android:pathData="M6,6 L18,18"
+            android:strokeWidth="6"
+            android:strokeColor="@color/accentColor"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+        <path
+            android:pathData="M18,6 L6,18"
+            android:strokeWidth="6"
+            android:strokeColor="@color/accentColor"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+
+        <!-- O mark (bottom-right cell) -->
+        <path
+            android:pathData="M60,60 m -9,0 a 9,9 0 1,0 18,0 a 9,9 0 1,0 -18,0"
+            android:strokeWidth="6"
+            android:strokeColor="@color/primaryColor"
+            android:fillColor="#00000000" />
+    </group>
+</vector>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#FFF5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="button_color">#FF2196F3</color>
+    <color name="ic_launcher_background">#FBFDFC</color>
+    <color name="primary_text">#FF212121</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">TicTacToe</string>
+    <string name="grid">Our main grid</string>
+    <string name="heading">Welcome To Tic-Tac-Toe</string>
+    <string name="reset_button">Reset Game</string>
+    <string name="status">X\'s Turn - Tap to Play</string>
+    <style name="Base.Theme.TicTacToe" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/button_color</item>
+        <item name="colorPrimaryDark">@color/button_color</item>
+    </style>
+    <style name="Theme.TicTacToe" parent="Base.Theme.TicTacToe"/>
+</resources>

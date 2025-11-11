@@ -1,0 +1,8 @@
+<resources>
+    <color name="primaryColor">#2196F3</color>       <!-- Soft Blue -->
+    <color name="primaryDarkColor">#1976D2</color>  <!-- Darker Blue -->
+    <color name="accentColor">#FF9800</color>       <!-- Orange highlight -->
+    <color name="backgroundColor">#FAFAFA</color>   <!-- Light gray background -->
+    <color name="textColor">#212121</color>         <!-- Dark text -->
+    <color name="buttonTextColor">#FFFFFF</color>   <!-- White text for buttons -->
+</resources>
