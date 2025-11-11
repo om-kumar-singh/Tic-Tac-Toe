@@ -81,9 +81,6 @@ app/
 - Local multiplayer on the same device
 - Take turns with a friend
 
-## 📸 Screenshots
-*(Screenshots would be added here)*
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the project and submit pull requests.
 
